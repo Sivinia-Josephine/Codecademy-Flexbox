@@ -1,4 +1,4 @@
-# 🫖 The Tea Cozy
+# The Tea Cozy
 
 Übungsprojekt für Flexbox-Modell
 
