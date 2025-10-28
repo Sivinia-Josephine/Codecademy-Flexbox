@@ -44,9 +44,7 @@ Die Seite besteht aus mehreren Sektionen, die mit Flexbox positioniert sind:
 ---
 
 ### Footer
-- Kontaktinformationen zentriert  
-  - **E-Mail:** contact@theteacozy.com  
-  - **Telefon:** 917-555-8904  
+- Kontaktinformationen zentriert    
 - Copyright-Hinweis linksbündig:  
   `© The Tea Cozy 2017`  
 
